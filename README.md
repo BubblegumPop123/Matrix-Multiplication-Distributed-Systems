@@ -72,4 +72,4 @@ This project consists of three main parts: matrix operations, parallel processin
 
 The benchmarking results, including performance comparisons and efficiency analysis of the parallel codes executed on multiple virtual machines and processes, are detailed in `Report.pdf`. This report provides valuable insights into the scalability and optimization of the implemented algorithms.
 
-This guide should help users understand, compile, run, and benchmark the different parts of the project effectively. For any issues or further details, please refer to the `Report.pdf` for comprehensive benchmarking information.
+This guide should help understand, compile, run, and benchmark the different parts of the project effectively. For any issues or further details, please refer to the `Report.pdf` for comprehensive benchmarking information.
